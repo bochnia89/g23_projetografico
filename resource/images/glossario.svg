@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="9.556" height="7.273" viewBox="0 0 9.556 7.273">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Caminho_69" data-name="Caminho 69" d="M0,0H9.556V-7.273H0Z" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="glossario" transform="translate(0 7.273)">
+    <g id="Grupo_93" data-name="Grupo 93" clip-path="url(#clip-path)">
+      <g id="Grupo_92" data-name="Grupo 92" transform="translate(9.556 -3.643)">
+        <path id="Caminho_68" data-name="Caminho 68" d="M0,0A2.34,2.34,0,0,0-.161-.848a2.023,2.023,0,0,0-.516-.763h0a3.791,3.791,0,0,0-1.454-.717A9.135,9.135,0,0,1-3.67-2.917a8.942,8.942,0,0,0-.938-.459,3.574,3.574,0,0,0-2.453-.069A3.657,3.657,0,0,0-8.692-2.31,3.786,3.786,0,0,0-9.548-.244c-.006.081-.008.163-.008.244s0,.163.008.245A3.773,3.773,0,0,0-7.189,3.392a3.589,3.589,0,0,0,1.145.247,5.287,5.287,0,0,0,2.733-.9,4.464,4.464,0,0,1,.762-.316,6.039,6.039,0,0,0,1.491-.534A2.225,2.225,0,0,0-.141.785,2.246,2.246,0,0,0,0,0" fill="#ff7d33"/>
+      </g>
+    </g>
+  </g>
+</svg>

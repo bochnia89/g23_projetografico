@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="194.14" height="48.341" viewBox="0 0 194.14 48.341">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Caminho_424" data-name="Caminho 424" d="M0,0H194.14V-48.341H0Z" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="bg_caligrafia_p" transform="translate(0 48.341)">
+    <g id="Grupo">
+      <text id="bo" transform="translate(61.743 -16.401)" fill="#fb3099" font-size="10" font-family="ArialMT, Arial"><tspan x="0" y="0">bo</tspan></text>
+      <text id="n" transform="translate(98.078 -16.401)" fill="#fb3099" font-size="10" font-family="ArialMT, Arial"><tspan x="0" y="0">n</tspan></text>
+      <text id="é" transform="translate(116.115 -16.401)" fill="#fb3099" font-size="10" font-family="ArialMT, Arial"><tspan x="0" y="0">é</tspan></text>
+    </g>
+    <path id="Caminho_422" data-name="Caminho 422" d="M3.757-15.591H189.38V-26.93H3.757Z" fill="#ffdfbe" fill-rule="evenodd"/>
+    <g id="Grupo_537" data-name="Grupo 537" clip-path="url(#clip-path)">
+      <g id="Grupo_536" data-name="Grupo 536" transform="translate(12.322 -42.02)">
+        <path id="Caminho_423" data-name="Caminho 423" d="M0,0A8.5,8.5,0,0,0-8.5,8.5V33.016A8.5,8.5,0,0,0,0,41.52H168.493a8.5,8.5,0,0,0,8.5-8.5V8.5a8.5,8.5,0,0,0-8.5-8.5Z" fill="none" stroke="#ff9a39" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>
